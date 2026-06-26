@@ -228,7 +228,7 @@ ${score >=4
 </p>
 
 <button onclick="location.reload()"
-id="next-btn"
+id="restart-btn"
 style="display:block">
 
 Retake Assessment
