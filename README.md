@@ -12,8 +12,8 @@ The project demonstrates JavaScript concepts such as DOM manipulation, event han
 
   Live Website
  
-https://chaitra1703.github.io/Quiz/
 
+https://stirring-daffodil-691c2f.netlify.app/
 GitHub Repository
 
 Chaitra1703/Quiz
@@ -120,7 +120,8 @@ GitHub: https://github.com/Chaitra1703
 
 LinkedIn: https://www.linkedin.com/in/chaitra-shivabasannavar
 
-Live Demo: https://chaitra1703.github.io/Quiz/
+Live Demo: 
+https://stirring-daffodil-691c2f.netlify.app/
 
 ---
 
